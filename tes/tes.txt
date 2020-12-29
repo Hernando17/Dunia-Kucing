@@ -1,0 +1,71 @@
+<section class="abt-sec container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-7">
+						<header class="header text-center">
+							<h2 class="heading text-uppercase">welcome to petty</h2>
+							<span class="icon"><i class="icon-bone"></i></span>
+							<p class="text-center">It is a long established fact that a reader will be distracted by the readable<br class="hidden-xs"> content of a page when looking at its layout the point of using Lorem Ipsum is that it<br class="hidden-xs">  has a more-or-less normal distribution of letters as opposed to using content here <br class="hidden-xs"> its making it look like readable.</p>
+						</header>
+						<ul class="list-unstyled icon-list text-center">
+							<li><span class="icon round"><i class="icon-money"></i></span><h3 class="heading2">Lowest Price</h3></li>
+							<li><span class="icon round"><i class="icon-atom"></i></span><h3 class="heading2">Healthy Pets</h3></li>
+							<li><span class="icon round"><i class="icon-smile"></i></span><h3 class="heading2">Happy People</h3></li>
+						</ul>
+					</div>
+					<div class="col-xs-12 col-sm-5">
+						<div class="img-holder"><img src="https://via.placeholder.com/345x600" alt="pet-image" class="img-responsive"></div>
+					</div>
+				</div>
+			</section>
+			<section class="services-sec bg-full" style="background-image:url(https://via.placeholder.com/1920x700);">
+				<div class="container">
+					<div class="row">
+						<header class="col-xs-12 header text-center">
+							<h2 class="heading text-uppercase">what we do</h2>
+							<span class="icon"><i class="icon-bone"></i></span>
+						</header>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 col-sm-6">
+							<div class="services-holder">
+								<div class="img-holder"><img src="https://via.placeholder.com/215x200" alt="Pet Adoption" class="img-responsive"></div>
+								<div class="txt-holder">
+									<h3 class="heading2">Pet Adoption</h3>
+									<p>It is a long established fact that a reader looking at its layout the point</p>
+									<a class="read-more text-uppercase" href="javascript:void(0);">read more <i class="icon-next"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-6">
+							<div class="services-holder">
+								<div class="img-holder"><img src="https://via.placeholder.com/215x200" alt="Pet Grooming" class="img-responsive"></div>
+								<div class="txt-holder">
+									<h3 class="heading2">Pet Grooming</h3>
+									<p>It is a long established fact that a reader looking at its layout the point</p>
+									<a class="read-more text-uppercase" href="javascript:void(0);">read more <i class="icon-next"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-6">
+							<div class="services-holder">
+								<div class="img-holder"><img src="https://via.placeholder.com/215x200" alt="Pet Daycare" class="img-responsive"></div>
+								<div class="txt-holder">
+									<h3 class="heading2">Pet Daycare</h3>
+									<p>It is a long established fact that a reader looking at its layout the point</p>
+									<a class="read-more text-uppercase" href="javascript:void(0);">read more <i class="icon-next"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-6">
+							<div class="services-holder">
+								<div class="img-holder"><img src="https://via.placeholder.com/215x200" alt="Dog Training" class="img-responsive"></div>
+								<div class="txt-holder">
+									<h3 class="heading2">Dog Training</h3>
+									<p>It is a long established fact that a reader looking at its layout the point</p>
+									<a class="read-more text-uppercase" href="javascript:void(0);">read more <i class="icon-next"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
